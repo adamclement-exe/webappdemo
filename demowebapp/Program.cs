@@ -11,6 +11,7 @@ var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 
+//removed IF
 app.UseSwagger();
 app.UseSwaggerUI();
 
