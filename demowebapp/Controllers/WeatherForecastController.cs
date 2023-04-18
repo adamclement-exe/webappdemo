@@ -3,9 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 namespace demowebapp.Controllers
 {
 
-    
-    
-
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
